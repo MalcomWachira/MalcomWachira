@@ -25,12 +25,13 @@ I am a software developer and an Informatics and Computer Science student. I am 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended-frontend-green.vercel.app/api?username=MalcomWachira&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+  <img src="[https://github-stats-extended-frontend-green.vercel.app/api?username=MalcomWachira&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff](https://github-stats-extended-frontend-green.vercel.app/api?username=MalcomWachira&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff)" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-stats-extended-frontend-green.vercel.app/api/top-langs/?username=MalcomWachira&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff&count_private=true" alt="Top Languages" />
+  <img src="[https://github-stats-extended-frontend-green.vercel.app/api/top-langs/?username=MalcomWachira&layout=compact&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff](https://github-stats-extended-frontend-green.vercel.app/api/top-langs/?username=MalcomWachira&layout=compact&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff)" alt="Top Languages" />
+</p>
 
-  <p align="center">
-  <img src="https://github-stats-extended-frontend-green.vercel.app//graph?username=MalcomWachira&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true&count_private=true" alt="Contribution Graph" />
+<p align="center">
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=MalcomWachira&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=MalcomWachira&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true)" alt="Contribution Graph" />
 </p>
 </p>
 
