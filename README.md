@@ -4,7 +4,7 @@
 
 # Hi there, I'm Malcom Wachira 👋
 
-I am a software developer and an Informatics and Computer Science student. I am passionate about building clean, efficient software solutions and exploring the intersection between software and hardware, ranging from responsive full-stack web platforms to embedded systems and IoT. I am also passionate about bukding solutions that solve real-world problems.
+I am a software developer and an Informatics and Computer Science student. I am passionate about building clean, efficient software solutions and exploring the intersection between software and hardware, ranging from responsive full-stack web platforms to embedded systems and IoT. I am also passionate about building solutions that solve real-world problems.
 
 - 🔭 **Current Focus:** Developing an IoT-based vermiculture data collection system for environmental monitoring, alongside building full-stack fleet management solutions and working on anomaly detection for logistics management systems.
 - 🌱 **Learning & Exploration:** Diving deeper into embedded systems architectures, fine-tuning my NestJS knowledge, Cloud infrastructure and DevOps, and Data Analytics.
@@ -25,9 +25,9 @@ I am a software developer and an Informatics and Computer Science student. I am 
 ## GitHub Stats
 
 <p align="center">
-  <img src="[https://github-stats-extended-frontend-green.vercel.app/api?username=MalcomWachira&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff](https://github-stats-extended-frontend-green.vercel.app/api?username=MalcomWachira&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff)" alt="GitHub Stats" />
+  <img src="[https://github-stats-extended-malcomwachira.vercel.app/api?username=MalcomWachira&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff](https://github-stats-extended-malcomwachira.vercel.app/api?username=MalcomWachira&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff)" alt="GitHub Stats" />
   &nbsp;
-  <img src="[https://github-stats-extended-frontend-green.vercel.app/api/top-langs/?username=MalcomWachira&layout=compact&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff](https://github-stats-extended-frontend-green.vercel.app/api/top-langs/?username=MalcomWachira&layout=compact&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff)" alt="Top Languages" />
+  <img src="[https://github-stats-extended-malcomwachira.vercel.app/api/top-langs/?username=MalcomWachira&layout=compact&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff](https://github-stats-extended-malcomwachira.vercel.app/api/top-langs/?username=MalcomWachira&layout=compact&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff)" alt="Top Languages" />
 </p>
 
 <p align="center">
