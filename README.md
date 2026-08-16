@@ -55,7 +55,7 @@ I am a software developer and an Informatics and Computer Science student. I am 
 
 <p align="center">
  ![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=MalcomWachira&theme=tokyonight)
-</p>
+
 
 
 </p>
